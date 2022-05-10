@@ -1,4 +1,4 @@
-# challenge-3
+# Password Generator
 Javascript Password Generator 
 
 In order to practice better and start from a place I understood more, I reworked and rewrote the assignment code.
@@ -15,3 +15,5 @@ Below are the reworkings to make the Password Generator function:
   * In Javascript, a Generate Password function was created inlcuding typeCounts and typeArrays to call in object variable
   * In Javascript, the Generate Passwrod function placed elements into if and for methods to test of elements were true or false and correlated to lenght
   * In Javascript, functions were created to randomize variables with the Math.floor and Math.random methods 
+  
+![screencapture-zoyasarow-github-io-challenge-3-2022-05-09-22_12_43](https://user-images.githubusercontent.com/101853202/167541286-a2894faf-55bb-4625-87c8-8476bb215d84.png)

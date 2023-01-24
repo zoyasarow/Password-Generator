@@ -1,7 +1,7 @@
-# Password Generator
-Javascript Password Generator 
+# Javascript-Password-Generator
 
-Live Link: https://zoyasarow.github.io/Password-Generator/
+
+[Live Link](https://zoyasarow.github.io/Password-Generator/)
 
 In order to practice better and start from a place I understood more, I reworked and rewrote the assignment code.
 Some of this code has been influenced by Traversy Media's video: 
